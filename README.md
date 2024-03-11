@@ -22,5 +22,5 @@ Autonomous driving, Multimodal Models, Object Tracking
 
 - School Email: [yfbai@stu.xjtu.edu.cn](mailto:yfbai@stu.xjtu.edu.cn)
 - Personal Email: [yfbai.10086@gmail.com](mailto:yfbai.10086@gmail.com)
-- WeChat: [yfbaiyry1008]
-- QQ: [826980835]
+- WeChat: yfbaiyry1008
+- QQ: 826980835
