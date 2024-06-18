@@ -2,7 +2,7 @@
 
 ## Interested Field
 
-Autonomous driving, Multimodal Models, Object Tracking
+Embodied Intelligence, Autonomous driving, Multimodal Models, Object Tracking
 
 ## Multi-Stage Pre-Training
 
