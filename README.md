@@ -10,8 +10,16 @@ Embodied Intelligence, Autonomous driving, Multimodal Models, Object Tracking
   - Xi’an Jiaotong University, advised by Associate Prof. [Xing Wei](https://gr.xjtu.edu.cn/en/web/weixing)
 - B.Eng. in Computer Science and Technology, 2018-2022
   - Xidian University, School of Computing (GPA 3.9/4.0, ranked 2st)
+ 
+## Work Flow
+
+- Intern in Autonomous Driving at the Foundation Model Group of Megvii Technology. 2023.12 --- 2024.05
+  - Main Work: The application of 3D perception in multimodal large models for autonomous driving.
+- Intern in Embodied Intelligence at the Visual Technology Center of Alibaba DAMO Academy. 2024.05 --- Now
+  - Main Work: The application of temporal understanding and task decomposition in multimodal large models for embodied intelligence.
 
 ## Selected Checkpoints
+
 - [Is a 3D-Tokenized LLM the Key to Reliable Autonomous Driving?](https://arxiv.org/abs/2405.18361)
   - Arxiv (NIPS 2024 Submitted)
 - [ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe](https://arxiv.org/abs/2312.17133)
