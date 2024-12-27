@@ -1,4 +1,4 @@
-###  :wave:Hi there, this is Yifan Bai, a second-year graduate student at [XJTU](http://www.xjtu.edu.cn/)
+###  :wave:Hi there, this is Yifan Bai, a third-year graduate student at [XJTU](http://www.xjtu.edu.cn/)
 
 ## Interested Field
 
