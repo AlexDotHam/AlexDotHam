@@ -2,7 +2,7 @@
 
 ## Interested Field
 
-Embodied Intelligence, Autonomous driving, Multimodal Models, Object Tracking
+Embodied Intelligence, Autonomous driving, Multimodal Models, Visual Generation
 
 ## Multi-Stage Pre-Training
 
@@ -19,7 +19,8 @@ Embodied Intelligence, Autonomous driving, Multimodal Models, Object Tracking
   - Main Work: The application of temporal understanding and task decomposition in multimodal large models for embodied intelligence.
 
 ## Selected Checkpoints
-
+- [GridShow: Omni Visual Generation](https://arxiv.org/pdf/2412.10718)
+  - Arxiv
 - [Is a 3D-Tokenized LLM the Key to Reliable Autonomous Driving?](https://arxiv.org/abs/2405.18361)
   - Arxiv
 - [Projecting Points to Axes: Oriented Object Detection via Point-Axis Representation](https://arxiv.org/pdf/2407.08489)
