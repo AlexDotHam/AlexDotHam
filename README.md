@@ -24,7 +24,7 @@ Embodied Intelligence, Autonomous driving, Multimodal Models, Visual Generation
 - [Is a 3D-Tokenized LLM the Key to Reliable Autonomous Driving?](https://arxiv.org/abs/2405.18361)
   - Arxiv
 - [Projecting Points to Axes: Oriented Object Detection via Point-Axis Representation](https://arxiv.org/pdf/2407.08489)
-  - Accepted by ECCV 2024 Oral
+  - Accepted by ECCV 2024 Oral (Top 2.3%)
 - [ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe](https://arxiv.org/abs/2312.17133)
   - Accepted by CVPR 2024
 - [Autoregressive Visual Tracking](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_Autoregressive_Visual_Tracking_CVPR_2023_paper.pdf)
