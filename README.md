@@ -23,7 +23,7 @@ Embodied Intelligence, Autonomous driving, Multimodal Models, Visual Generation
 - [Autoregressive Sequential Pretraining for Visual Tracking](https://openaccess.thecvf.com/content/CVPR2025/papers/Liang_Autoregressive_Sequential_Pretraining_for_Visual_Tracking_CVPR_2025_paper.pdf)
   - Accepted by CVPR 2025
 - [FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving](https://arxiv.org/pdf/2505.17685)
-  - Arxiv
+  - Accepted by NIPS 2025 Spotlight
 - [TACOcc: Target-Adaptive Cross-Modal Fusion with Volume Rendering for 3D Semantic Occupancy](https://arxiv.org/pdf/2505.12693)
   - Arxiv
 - [GridShow: Omni Visual Generation](https://arxiv.org/pdf/2412.10718)
